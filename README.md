@@ -19,3 +19,8 @@
 Format: ![Alt Text](https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014__340.jpg)
     
     
+First Header | Second Header
+-------------|--------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+    
