@@ -77,7 +77,7 @@ My Cool Side Project
     * Second item.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
+:   List open source contributions here, perhaps placing emphasis on 
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
